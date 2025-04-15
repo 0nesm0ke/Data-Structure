@@ -1,4 +1,4 @@
-#include <stdio.h>
+t#include <stdio.h>
 void insertion(int arr[],int *size);
 void deletion(int arr[],int *size);
 void linearsearch(int arr[],int *size);
